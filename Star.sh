@@ -39,7 +39,7 @@ sleep 2
 echo "   \033[1;34m ╔════════════════════════════════════════╗"
 echo "  \033[1;32m         AUTHOR     :  Mr.St4ri0nS"
 echo "           FACEBOOK   :  Wong Urep"
-echo "           GITHUB     :  github.com/Star-0s"
+echo "           GITHUB     :  github.com/Starions"
 echo "\033[1;35m <══════════════════════════════════════════════>"
 echo "   \033[1;32m     [+]\033[1;33m   STARIVER CYBER NETWORK \033[1;32m  [+]"
 echo ""
