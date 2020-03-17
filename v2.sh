@@ -137,7 +137,7 @@ then
         cd spam-wa
         python2 Spammer.py
 
-elif [ $pilih = "6" ]
+elif [ $input = "6" ]
 then
         cd $HOME
         pkg install git
